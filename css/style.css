@@ -42,8 +42,9 @@ html, body
 
 .menu
 {
-     background-color: #1A998C;
-     color: white;
+    background-color: #1A998C;
+    color: white;
+    height: 100px;
 }
 
 .menu ul
@@ -60,6 +61,20 @@ html, body
 	color: white;
 	font-family: "Bebas Neue";
 	font-size: 30px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+}
+
+.menu li:hover
+{
+	font-size: 60px;
+}
+
+.menu li:visited
+{
+	font-size: 60px;
 }
 
 .burger
@@ -150,11 +165,6 @@ h1
 {
 	display: inline-block;
 	text-align: center;
-}
-
-#titre_liste
-{
-	font-size: 60px;
 }
 
 .content_corps
