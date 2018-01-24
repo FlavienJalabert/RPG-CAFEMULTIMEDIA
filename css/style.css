@@ -60,21 +60,11 @@ html, body
 	padding: 15px;
 	color: white;
 	font-family: "Personal Services";
-	font-size: 30px;
+	font-size: 60px;
     transition-property: all;
     transition-duration: 0.3s;
     transition-timing-function: initial;
     transition-delay: initial;
-}
-
-.menu li:hover
-{
-	font-size: 60px;
-}
-
-.menu li:visited
-{
-	font-size: 60px;
 }
 
 a
@@ -100,7 +90,7 @@ a
 h1
 {
 	font-family: "Personal Services";
-	font-size: 60px;
+	font-size: 30px;
 	color: #C40101;
 	margin: 0px;
 	padding-bottom: 10px;
@@ -254,11 +244,6 @@ p
 	.content_header li
 	{
 		font-size: 25px;
-	}
-	
-	#titre_liste
-	{
-		font-size: 30px;
 	}
 	
 	p
