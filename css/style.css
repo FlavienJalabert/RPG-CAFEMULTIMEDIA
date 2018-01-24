@@ -80,12 +80,12 @@ html, body
 	font-size: 60px;
 }
 
-a
+.menu a
 {
 	font-family: "Personal Services";
 	font-size: 30px;
 	color: #C40101;
-	margin: 0px;
+	/*margin: 0px; */
 }
 
 .burger
@@ -215,7 +215,6 @@ h1
 
 a.liens_menu
 {
-<<<<<<< HEAD
 	text-decoration: none; 
 	font-family : Personal Services;
 }
@@ -225,10 +224,8 @@ a.liens_menu:visited
 	text-decoration: none; 
 	font-family : Personal Services;
 	color : #C40101;
-=======
 	text-decoration: none;
 	list-style: none;
->>>>>>> 34c3b7a1266e57941e87b012fd43bfe0cb633e10
 }
 
 p
