@@ -20,7 +20,6 @@
 					 <div class="menu">
 						 <ul>
 							<a href="../index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
-							<a href="regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
 						 </ul>
 					 </div>
 				 </div>

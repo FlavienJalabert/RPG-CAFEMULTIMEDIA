@@ -79,7 +79,7 @@ html, body
 
 .burger
 {
-background-color: #1A998C;
+	background-color: #1A998C;
 }
 
 #menu_burger
@@ -93,7 +93,7 @@ h1
 {
 	font-family: "Bebas Neue";
 	font-size: 60px;
-	color: #1A998C;
+	color: #C40101;
 	margin: 0px;
 	padding-bottom: 10px;
 }
@@ -110,10 +110,11 @@ h1
 
 #partie_footer
 {
-	background-color: #1A998C;
+	background-color: #C40101;
 	position: relative;
 	bottom: 0px;
 	width: 100%;
+	height: 50px;
 }
 
 #conteneur_corps
@@ -132,6 +133,11 @@ h1
 {
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+#structure_footer
+{
+	color: white;
 }
 
 .content_header ul
