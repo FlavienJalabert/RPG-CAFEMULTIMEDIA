@@ -2,7 +2,7 @@
 <html>
 <head>
 		<meta charset="utf-8">
-		<title>RPG - Règles du Jeu</title>
+		<title>RPG - Astuces et Conseils</title>
 		<link href="../css/style.css" rel="stylesheet" type="text/css">
 		<link rel="icon" type="image/png" href="../img/favicon.png" />
 		<script src="../js/burger.js"></script>
@@ -19,7 +19,7 @@
 				 <div id="lemenu">
 					 <div class="menu">
 						 <ul>
-							<a href="../index.php" class="liens_menu"><li id="titre_liste">FALLEN IN HELL</li></a>
+							<a href="../index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
 						 </ul>
 					 </div>
 				 </div>

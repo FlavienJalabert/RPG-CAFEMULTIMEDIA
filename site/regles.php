@@ -19,7 +19,7 @@
 				 <div id="lemenu">
 					 <div class="menu">
 						 <ul>
-							<a href="../index.php" class="liens_menu"><li id="titre_liste">FALLEN IN HELL</li></a>
+							<a href="../index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
 						 </ul>
 					 </div>
 				 </div>
