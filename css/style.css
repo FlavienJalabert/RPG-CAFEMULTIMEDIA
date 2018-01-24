@@ -3,8 +3,8 @@
 
 @font-face
 {
-	font-family: 'Bebas Neue';
-	src: url('../fonts/Bebas Neue.ttf');
+	font-family: 'Personal Services';
+	src: url('../fonts/Personal Services.ttf');
 }
 
 html, body
@@ -42,7 +42,7 @@ html, body
 
 .menu
 {
-     background-color: #1A998C;
+     background-color: #C40101;
      color: white;
 }
 
@@ -58,7 +58,7 @@ html, body
 	display: inline-block;
 	padding: 15px;
 	color: white;
-	font-family: "Bebas Neue";
+	font-family: "Personal Services";
 	font-size: 30px;
 }
 
@@ -171,7 +171,7 @@ h1
 
 .content_corps a
 {
-	text-decoration-color: #323232;
+	text-decoration-color: #C40101;
 }
 
 .content_corps a:hover

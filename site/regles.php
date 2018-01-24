@@ -3,9 +3,9 @@
 <head>
 		<meta charset="utf-8">
 		<title>RPG - Règles du Jeu</title>
-		<link href="css/style.css" rel="stylesheet" type="text/css">
-		<link rel="icon" type="image/png" href="img/favicon.png" />
-		<script src="js/burger.js"></script>
+		<link href="../css/style.css" rel="stylesheet" type="text/css">
+		<link rel="icon" type="image/png" href="../img/favicon.png" />
+		<script src="../js/burger.js"></script>
 	</head>
 
 	<body>
@@ -13,14 +13,14 @@
              <div id="conteneur_menu">
 				 <div id="leburger">
 					 <div class="burger">
-						 <img src="./img/burger_icon.png" id="menu_burger"/>
+						 <img src="../img/burger_icon.png" id="menu_burger"/>
 					 </div>
 				 </div>
 				 <div id="lemenu">
 					 <div class="menu">
 						 <ul>
-							<a href="./index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
-							<a href="./regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
+							<a href="../index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
+							<a href="regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
 						 </ul>
 					 </div>
 				 </div>
