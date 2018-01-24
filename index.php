@@ -30,7 +30,7 @@
 			<div id="conteneur_corps">
 				<div id="structure_corps">
 					<div class="content_corps"> 
-						<a href="site/regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
+						<a href="site/regles.php" class="liens_menu"><li>REGLES DU JEU</li></a>
 						
 						<!--<h1>RPG</h1>
 						<br>

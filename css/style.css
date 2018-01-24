@@ -77,6 +77,14 @@ html, body
 	font-size: 60px;
 }
 
+a
+{
+	font-family: "Personal Services";
+	font-size: 30px;
+	color: #C40101;
+	margin: 0px;
+}
+
 .burger
 {
 	background-color: #1A998C;
@@ -91,7 +99,7 @@ html, body
 
 h1
 {
-	font-family: "Bebas Neue";
+	font-family: "Personal Services";
 	font-size: 60px;
 	color: #C40101;
 	margin: 0px;
@@ -199,6 +207,7 @@ h1
 a.liens_menu
 {
 	text-decoration: none;
+	list-style: none;
 }
 
 p
