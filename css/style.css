@@ -69,7 +69,7 @@ html, body
     transition-delay: initial;
 }
 
-<<<<<<< HEAD
+
 /*.menu li:hover
 {
 	font-size: 60px;
@@ -82,9 +82,6 @@ html, body
 }
 
 .menu a
-=======
-a
->>>>>>> 99780a1dcd28a98c612959f3a956117c8d43ce16
 {
 	font-family: "Personal Services";
 	font-size: 30px;
@@ -191,19 +188,21 @@ h1
 .content_corps
 {
 	text-align: center;
-	padding-top: 20px;
+	padding-top : 20px;
 	padding-bottom: 20px;
 }
 
 .content_corps p
 {
 	color: #323232;
+	margin : 0px;
 }
 
 .content_corps a
 {
 	text-decoration-color: #C40101;
 	font-family : Apocalypse-Regular;
+	margin: 0px;
 }
 
 .content_corps a:hover
@@ -213,23 +212,34 @@ h1
 }
 
 .contexte{
-	margin-top : 20px;
+
+	text-decoration: none; 
+	font-family : Apocalypse-Regular;
+	font-size: 20px;
+	color: #C40101;
+	list-style: none;
+	
 }
 
 
 a.liens_menu
 {
 	text-decoration: none; 
-	font-family : Personal Services;
+	font-family : Apocalypse-Regular;
+	font-size: 20px;
+	color: #C40101;
+	list-style: none;
+
 }
 
 a.liens_menu:visited
 {
 	text-decoration: none; 
-	font-family : Personal Services;
+	font-family : Apocalypse-Regular;
 	color : #C40101;
 	text-decoration: none;
 	list-style: none;
+
 }
 
 p
@@ -266,6 +276,7 @@ p
 	.content_corps
 	{
 		font-size: 25px;
+		margin : 0px;
 	}
 	
 	#conteneur_header
