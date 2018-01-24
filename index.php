@@ -19,7 +19,7 @@
 				 <div id="lemenu">
 					 <div class="menu">
 						 <ul>
-							<a href="index.php" class="liens_menu"><li id="titre_liste">FALLEN IN HELL</li></a>
+							<a href="index.php" class="liens_menu"><li>FALLEN IN HELL</li></a>
 							<!--<a href="site/regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>-->
 						 </ul>
 					 </div>
@@ -29,10 +29,18 @@
 		<div id="partie_corps">
 			<div id="conteneur_corps">
 				<div id="structure_corps">
+<<<<<<< HEAD
 					<div class="content_corps"> 
 
 						<a href="site/regles.php" class="liens_menu">REGLES DU JEU</a>
 						
+=======
+					<div class="content_corps">
+						<a href="site/regles.php" class="liens_menu"><li>REGLES DU JEU</li></a>
+
+						<a href="site/actuces.php" class="liens_menu"><li>Astuces et conseils</li></a>
+
+>>>>>>> 99780a1dcd28a98c612959f3a956117c8d43ce16
 						<!--<h1>RPG</h1>
 						<br>
 						<?php

@@ -69,6 +69,7 @@ html, body
     transition-delay: initial;
 }
 
+<<<<<<< HEAD
 /*.menu li:hover
 {
 	font-size: 60px;
@@ -81,6 +82,9 @@ html, body
 }
 
 .menu a
+=======
+a
+>>>>>>> 99780a1dcd28a98c612959f3a956117c8d43ce16
 {
 	font-family: "Personal Services";
 	font-size: 30px;
@@ -103,7 +107,7 @@ html, body
 h1
 {
 	font-family: "Personal Services";
-	font-size: 60px;
+	font-size: 30px;
 	color: #C40101;
 	margin: 0px;
 	padding-bottom: 10px;
@@ -272,11 +276,6 @@ p
 	.content_header li
 	{
 		font-size: 25px;
-	}
-	
-	#titre_liste
-	{
-		font-size: 30px;
 	}
 	
 	p
