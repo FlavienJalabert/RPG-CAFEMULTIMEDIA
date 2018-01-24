@@ -119,7 +119,7 @@ h1
 #partie_footer
 {
 	background-color: #C40101;
-	position: relative;
+	position: inherit;
 	bottom: 0px;
 	width: 100%;
 	height: 50px;
