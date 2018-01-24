@@ -80,9 +80,17 @@ html, body
 	font-size: 60px;
 }
 
+a
+{
+	font-family: "Personal Services";
+	font-size: 30px;
+	color: #C40101;
+	margin: 0px;
+}
+
 .burger
 {
-background-color: #1A998C;
+	background-color: #1A998C;
 }
 
 #menu_burger
@@ -94,9 +102,9 @@ background-color: #1A998C;
 
 h1
 {
-	font-family: "Bebas Neue";
+	font-family: "Personal Services";
 	font-size: 60px;
-	color: #1A998C;
+	color: #C40101;
 	margin: 0px;
 	padding-bottom: 10px;
 }
@@ -113,10 +121,11 @@ h1
 
 #partie_footer
 {
-	background-color: #1A998C;
-	position: relative;
+	background-color: #C40101;
+	position: inherit;
 	bottom: 0px;
 	width: 100%;
+	height: 50px;
 }
 
 #conteneur_corps
@@ -135,6 +144,11 @@ h1
 {
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+#structure_footer
+{
+	color: white;
 }
 
 .content_header ul
@@ -201,6 +215,7 @@ h1
 
 a.liens_menu
 {
+<<<<<<< HEAD
 	text-decoration: none; 
 	font-family : Personal Services;
 }
@@ -210,6 +225,10 @@ a.liens_menu:visited
 	text-decoration: none; 
 	font-family : Personal Services;
 	color : #C40101;
+=======
+	text-decoration: none;
+	list-style: none;
+>>>>>>> 34c3b7a1266e57941e87b012fd43bfe0cb633e10
 }
 
 p
