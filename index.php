@@ -29,9 +29,11 @@
 		<div id="partie_corps">
 			<div id="conteneur_corps">
 				<div id="structure_corps">
-					<div class="content_corps"> 
+					<div class="content_corps">
 						<a href="site/regles.php" class="liens_menu"><li>REGLES DU JEU</li></a>
+
 						<a href="site/actuces.php" class="liens_menu"><li>Astuces et conseils</li></a>
+
 						<!--<h1>RPG</h1>
 						<br>
 						<?php
@@ -48,6 +50,11 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim turpis nec erat interdum, non euismod quam ultrices. Ut ultrices facilisis augue. Suspendisse vel commodo dolor. Cras nisi dolor, tempus vitae metus vitae, efficitur fermentum diam. Sed mollis gravida tellus, nec lacinia augue. Sed sodales et nisi id aliquam. Phasellus laoreet nunc eu sagittis mattis. Integer commodo sollicitudin tellus. Sed iaculis sem est, consectetur dictum diam condimentum sit amet. Quisque non velit cursus, consequat dui venenatis, pulvinar lectus.
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim turpis nec erat interdum, non euismod quam ultrices. Ut ultrices facilisis augue. Suspendisse vel commodo dolor. Cras nisi dolor, tempus vitae metus vitae, efficitur fermentum diam. Sed mollis gravida tellus, nec lacinia augue. Sed sodales et nisi id aliquam. Phasellus laoreet nunc eu sagittis mattis. Integer commodo sollicitudin tellus. Sed iaculis sem est, consectetur dictum diam condimentum sit amet. Quisque non velit cursus, consequat dui venenatis, pulvinar lectus.
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim turpis nec erat interdum, non euismod quam ultrices. Ut ultrices facilisis augue. Suspendisse vel commodo dolor. Cras nisi dolor, tempus vitae metus vitae, efficitur fermentum diam. Sed mollis gravida tellus, nec lacinia augue. Sed sodales et nisi id aliquam. Phasellus laoreet nunc eu sagittis mattis. Integer commodo sollicitudin tellus. Sed iaculis sem est, consectetur dictum diam condimentum sit amet. Quisque non velit cursus, consequat dui venenatis, pulvinar lectus.
+					</div> 
+				</div>
+				<div id="structure_corps">
+					<div class="content_corps"> 
+						<li class="contexte">Contexte</li>
 					</div> 
 				</div>
 			</div>

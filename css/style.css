@@ -5,6 +5,8 @@
 {
 	font-family: 'Personal Services';
 	src: url('../fonts/Personal Services.ttf');
+	font-family: 'Apocalypse-Regular';
+	src: url('../fonts/Apocalypse-Regular.ttf');
 }
 
 html, body
@@ -60,7 +62,7 @@ html, body
 	padding: 15px;
 	color: white;
 	font-family: "Personal Services";
-	font-size: 60px;
+	font-size: 50px;
     transition-property: all;
     transition-duration: 0.3s;
     transition-timing-function: initial;
@@ -186,6 +188,7 @@ h1
 .content_corps a
 {
 	text-decoration-color: #C40101;
+	font-family : Apocalypse-Regular;
 }
 
 .content_corps a:hover
@@ -194,10 +197,27 @@ h1
 	text-decoration-color: #0c5b9b;
 }
 
+.contexte{
+	margin-top : 20px;
+}
+
+
 a.liens_menu
 {
+<<<<<<< HEAD
+	text-decoration: none; 
+	font-family : Personal Services;
+}
+
+a.liens_menu:visited
+{
+	text-decoration: none; 
+	font-family : Personal Services;
+	color : #C40101;
+=======
 	text-decoration: none;
 	list-style: none;
+>>>>>>> 34c3b7a1266e57941e87b012fd43bfe0cb633e10
 }
 
 p
