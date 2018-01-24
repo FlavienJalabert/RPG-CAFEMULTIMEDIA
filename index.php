@@ -19,8 +19,8 @@
 				 <div id="lemenu">
 					 <div class="menu">
 						 <ul>
-							<a href="./index.php" class="liens_menu"><li id="titre_liste">ACCUEIL</li></a>
-							<a href="./regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
+							<a href="index.php" class="liens_menu"><li id="titre_liste">FALLEN IN HELL</li></a>
+							<!--<a href="site/regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>-->
 						 </ul>
 					 </div>
 				 </div>
@@ -29,13 +29,15 @@
 		<div id="partie_corps">
 			<div id="conteneur_corps">
 				<div id="structure_corps">
-					<div class="content_corps">
-						<h1>RPG</h1>
+					<div class="content_corps"> 
+						<a href="site/regles.php" class="liens_menu"><li>RÈGLES DU JEU</li></a>
+						
+						<!--<h1>RPG</h1>
 						<br>
 						<?php
 							//include ('./php/jeu.php');
-						?>
-					</div>
+						?>-->
+					</div> 
 				</div>
 			</div>
 		</div>
