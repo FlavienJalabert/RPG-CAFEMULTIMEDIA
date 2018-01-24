@@ -30,13 +30,18 @@
 			<div id="conteneur_corps">
 				<div id="structure_corps">
 					<div class="content_corps"> 
-						<a href="site/regles.php" class="liens_menu">RÈGLES DU JEU</a>
+						<a href="site/regles.php" class="liens_menu">REGLES DU JEU</a>
 						
 						<!--<h1>RPG</h1>
 						<br>
 						<?php
 							//include ('./php/jeu.php');
 						?>-->
+					</div> 
+				</div>
+				<div id="structure_corps">
+					<div class="content_corps"> 
+						<li class="contexte">Contexte</li>
 					</div> 
 				</div>
 			</div>
