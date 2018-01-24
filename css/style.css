@@ -3,10 +3,8 @@
 
 @font-face
 {
-	font-family: 'Personal Services';
-	src: url('../fonts/Personal Services.ttf');
-	font-family: 'Apocalypse-Regular';
-	src: url('../fonts/Apocalypse-Regular.ttf');
+	font-family: 'Bebas Neue';
+	src: url('../fonts/Bebas Neue.ttf');
 }
 
 html, body
@@ -44,9 +42,8 @@ html, body
 
 .menu
 {
-	background-color: #C40101;
-	color: white;
-	height: 100px;
+     background-color: #1A998C;
+     color: white;
 }
 
 .menu ul
@@ -61,6 +58,7 @@ html, body
 	display: inline-block;
 	padding: 15px;
 	color: white;
+<<<<<<< HEAD
 	font-family: "Personal Services";
 	font-size: 50px;
     transition-property: all;
@@ -84,14 +82,15 @@ html, body
 .menu a
 {
 	font-family: "Personal Services";
+=======
+	font-family: "Bebas Neue";
+>>>>>>> a43e1ab78ac9968214de5368578dfb901a6da34f
 	font-size: 30px;
-	color: #C40101;
-	/*margin: 0px; */
 }
 
 .burger
 {
-	background-color: #1A998C;
+background-color: #1A998C;
 }
 
 #menu_burger
@@ -103,9 +102,9 @@ html, body
 
 h1
 {
-	font-family: "Personal Services";
-	font-size: 30px;
-	color: #C40101;
+	font-family: "Bebas Neue";
+	font-size: 60px;
+	color: #1A998C;
 	margin: 0px;
 	padding-bottom: 10px;
 }
@@ -122,11 +121,10 @@ h1
 
 #partie_footer
 {
-	background-color: #C40101;
-	position: inherit;
+	background-color: #1A998C;
+	position: relative;
 	bottom: 0px;
 	width: 100%;
-	height: 50px;
 }
 
 #conteneur_corps
@@ -145,11 +143,6 @@ h1
 {
 	margin-left: 10%;
 	margin-right: 10%;
-}
-
-#structure_footer
-{
-	color: white;
 }
 
 .content_header ul
@@ -185,6 +178,11 @@ h1
 	text-align: center;
 }
 
+#titre_liste
+{
+	font-size: 60px;
+}
+
 .content_corps
 {
 	text-align: center;
@@ -200,9 +198,13 @@ h1
 
 .content_corps a
 {
+<<<<<<< HEAD
 	text-decoration-color: #C40101;
 	font-family : Apocalypse-Regular;
 	margin: 0px;
+=======
+	text-decoration-color: #323232;
+>>>>>>> a43e1ab78ac9968214de5368578dfb901a6da34f
 }
 
 .content_corps a:hover
@@ -211,6 +213,7 @@ h1
 	text-decoration-color: #0c5b9b;
 }
 
+<<<<<<< HEAD
 .contexte{
 
 	text-decoration: none; 
@@ -240,6 +243,11 @@ a.liens_menu:visited
 	text-decoration: none;
 	list-style: none;
 
+=======
+a.liens_menu
+{
+	text-decoration: none;
+>>>>>>> a43e1ab78ac9968214de5368578dfb901a6da34f
 }
 
 p
@@ -287,6 +295,11 @@ p
 	.content_header li
 	{
 		font-size: 25px;
+	}
+	
+	#titre_liste
+	{
+		font-size: 30px;
 	}
 	
 	p
