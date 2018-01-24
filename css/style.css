@@ -42,14 +42,9 @@ html, body
 
 .menu
 {
-<<<<<<< HEAD
-    background-color: #1A998C;
-    color: white;
-    height: 100px;
-=======
-     background-color: #C40101;
-     color: white;
->>>>>>> d13e4d301a9c2e20758b4eec9643018b8a256adb
+	background-color: #C40101;
+	color: white;
+	height: 100px;
 }
 
 .menu ul
