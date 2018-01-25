@@ -45,8 +45,9 @@ html, body
 
 .menu
 {
-     background-color: #1A998C;
-     color: white;
+    /*background-color: #1A998C;*/
+    background-color: #C40101;
+    color: white;
 }
 
 .menu ul
@@ -85,9 +86,15 @@ html, body
 	font-size: 30px;
 }
 
+.menu li:hover
+{
+	color: black;
+}
+
 .burger
 {
-background-color: #1A998C;
+	/*background-color: #1A998C;*/
+	background-color: #C40101;
 }
 
 #menu_burger
@@ -101,14 +108,16 @@ h1
 {
 	font-family: "28 Days Later";
 	font-size: 60px;
-	color: #1A998C;
+	/*color: #1A998C;*/
+	color: #C40101;
 	margin: 0px;
 	padding-bottom: 10px;
 }
 
 #partie_header
 {
-	background-color: #1A998C;
+	/*background-color: #1A998C;*/
+	background-color: #C40101;
 }
 
 #partie_corps
@@ -118,7 +127,8 @@ h1
 
 #partie_footer
 {
-	background-color: #1A998C;
+	/*background-color: #1A998C;*/
+	background-color: #C40101;
 	position: relative;
 	bottom: 0px;
 	width: 100%;
@@ -201,7 +211,7 @@ h1
 
 .content_corps a
 {
-/*	text-decoration-color: #C40101;*/
+	/*text-decoration-color: #C40101;*/
 	font-family : Apocalypse-Regular;
 	margin: 0px;
 	text-decoration-color: #323232;
